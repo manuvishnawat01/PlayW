@@ -1,4 +1,0 @@
-username,password,expected_result
-Manu.pratap2004@gmail.com,Manu@2004,success
-neerajsingh41150@gmail.com,Neeraj@123,success
-invalid_user@gmail.com,wrongpassword,failure
